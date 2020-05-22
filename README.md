@@ -2,7 +2,7 @@
 Ordering a Vector with Java
 </h1>
 
-<p align="center">This algorithm orders a vector in java language - Data structure.</p>
+<p align="center">This algorithm orders a vector in java language</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
