@@ -1,5 +1,5 @@
 <h1 align="center">
-Ordering a Vector with Java
+Ordering a Vector with Java - Data structure
 </h1>
 
 <p align="center">This algorithm orders a vector in java language - Data structure.</p>
