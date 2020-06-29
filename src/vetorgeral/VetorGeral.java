@@ -1,5 +1,5 @@
 /* Projeto...: Oredenação
- * Autor.....: Professor Dreco
+ * Autor.....: Vitor
  * Biblioteca: Vetor de até 1.000.000 posições
  * Classe....: Vetor_Geral
  * Objetivo..: Criação do nó (elemento) que será utilizado nos projetos

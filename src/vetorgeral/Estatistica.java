@@ -1,6 +1,6 @@
 /*
  * Projeto.: Ordenação em Vetores
- * Autor...: Professor Dreco
+ * Autor...: Vitor
  * Classe..: Estatistica
  * Objetivo: Apuração quantitativa de dados sobre os processos de ordenação.
  */
@@ -9,7 +9,7 @@ package vetorgeral;
 
 /**
  *
- * @author andrel.ded
+ * @author Vitor
  */
 public class Estatistica
 {

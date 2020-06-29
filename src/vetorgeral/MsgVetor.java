@@ -1,6 +1,6 @@
 /*
  * Projeto.: Ordenação em Vetores
- * Autor...: Professor Dreco
+ * Autor...: Vitor
  * Classe..: MsgVetor
  * Objetivo: Biblioteca para mensagens de interação com o usuário
  */

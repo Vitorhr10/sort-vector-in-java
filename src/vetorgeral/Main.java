@@ -1,6 +1,6 @@
 /*
  * Projeto.: Lista Duplamente Ligada
- * Autor...: Professor Dreco
+ * Autor...: Vitor
  * Classe..: ED2Ordenacao
  * Objetivo: Projeto Lista Duplamente Ligada
  */
